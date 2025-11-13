@@ -11,7 +11,7 @@ PyJWT==2.8.0
 
 # System and Networking
 psutil==5.9.8
-requests==2.31.0
+requests==2.32.4
 routeros_api==0.16.0
 
 # Optional SQLite Support
